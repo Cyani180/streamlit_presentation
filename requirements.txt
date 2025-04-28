@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sklearn.ensemble
+sklearn.svm
+sklearn.linear_model
+sklearn.metrics
+pickle
+joblib
